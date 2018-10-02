@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\yazan\documents\visual studio 2015\projects\security project\security project\source.cpp(80): warning C4715: 'byteProduct': not all control paths return a value
+  Security project.vcxproj -> C:\Users\Yazan\Documents\Visual Studio 2015\Projects\Security project\Debug\Security project.exe
+  Security project.vcxproj -> C:\Users\Yazan\Documents\Visual Studio 2015\Projects\Security project\Debug\Security project.pdb (Partial PDB)
